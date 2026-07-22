@@ -9,7 +9,7 @@ high_score = 0
 screen = turtle.Screen()
 screen.title("Snake Game")
 screen.bgcolor("black")
-screen.setup(width=800, height=600)
+screen.setup(width=600, height=600)
 screen.tracer(0)
 
 head = turtle.Turtle()
